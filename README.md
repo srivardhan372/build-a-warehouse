@@ -1,4 +1,4 @@
-# build-a-warehouse
+# build-a-warehouse-config
 
 <?xml version="1.0"?>
 <model>
